@@ -24,7 +24,7 @@ document.getElementById("dropDownTitle_4_0").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_0").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 // Orientation
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_0_1.textContent="Lesbian";
@@ -52,7 +52,7 @@ document.getElementById("dropDownTitle_4_1").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_1").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 // Orientation
@@ -81,7 +81,7 @@ document.getElementById("dropDownTitle_4_2").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_2").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 // Orientation
@@ -110,7 +110,7 @@ document.getElementById("dropDownTitle_4_3").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_3").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -141,7 +141,7 @@ document.getElementById("dropDownTitle_4_4").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_4").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -171,7 +171,7 @@ document.getElementById("dropDownTitle_4_5").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_5").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 // Orientation
@@ -200,7 +200,7 @@ document.getElementById("dropDownTitle_4_6").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_6").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -230,7 +230,7 @@ document.getElementById("dropDownTitle_4_7").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_7").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 // Orientation
@@ -259,7 +259,7 @@ document.getElementById("dropDownTitle_4_8").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_8").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -289,7 +289,7 @@ document.getElementById("dropDownTitle_4_9").textContent="Japanese"
 
 //Tags
 document.getElementById("tagsList_9").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -319,7 +319,7 @@ document.getElementById("dropDownTitle_4_10").textContent="Japanese";
 
 //Tags
 document.getElementById("tagsList_10").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -328,7 +328,7 @@ document.getElementById("dropDownTitle_4_10").textContent="Japanese";
 
 //Tags
 document.getElementById("tagsList_10").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 // Orientation
@@ -357,7 +357,7 @@ document.getElementById("dropDownTitle_4_11").textContent="Japanese";
 
 //Tags
 document.getElementById("tagsList_11").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
 
 
 
@@ -387,4 +387,4 @@ document.getElementById("dropDownTitle_4_12").textContent="Japanese";
 
 //Tags
 document.getElementById("tagsList_12").value = 
-"nokoda miyazima, ai sonoda,  ベロ, キス, 欲しい, 彼女, 吸って, 舐める ,動画 hymecymeyseh, vilguinvyhpyca";
+"";
