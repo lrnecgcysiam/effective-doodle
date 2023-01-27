@@ -19,7 +19,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_0.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_0.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_0").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_0").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_0").textContent="Japanese"
@@ -47,7 +47,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_1.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_1.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_1").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_1").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_1").textContent="Japanese"
@@ -76,7 +76,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_2.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_2.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_2").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_2").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_2").textContent="Japanese"
@@ -105,7 +105,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_3.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_3.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_3").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_3").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_3").textContent="Japanese"
@@ -136,7 +136,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_4.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_4.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_4").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_4").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_4").textContent="Japanese"
@@ -166,7 +166,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_5.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_5.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_5").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_5").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_5").textContent="Japanese"
@@ -195,7 +195,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_6.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_6.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_6").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_6").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_6").textContent="Japanese"
@@ -225,7 +225,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_7.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_7.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_7").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_7").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_7").textContent="Japanese"
@@ -254,7 +254,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_8.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_8.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_8").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_8").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_8").textContent="Japanese"
@@ -284,7 +284,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_9.text
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_9.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_9").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_9").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_9").textContent="Japanese"
@@ -314,7 +314,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_10.tex
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_10.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_10").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_10").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_10").textContent="Japanese";
@@ -352,7 +352,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_11.tex
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_11.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_11").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_11").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_11").textContent="Japanese";
@@ -382,7 +382,7 @@ document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_12.tex
 document.getElementsByClassName("label dropDownSetTitle").dropDownTitle_3_12.textContent="Publish Now";
 
 // Title
-document.getElementById("titleTmplField_12").value = "Frustrated wife vilguinvyhpyca decides to pay for lesbian prostitue  hymecymeyseh for sex in order to obtain orgasm";
+document.getElementById("titleTmplField_12").value = "Frustrated wife  decides to pay for prostitute  hymecymeyseh for sex in order to obtain orgasm";
 
 // Original Language
 document.getElementById("dropDownTitle_4_12").textContent="Japanese";
